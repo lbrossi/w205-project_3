@@ -1,9 +1,0 @@
-{"guild_name": "The Deadly Magic", "special_power": "Animal Transformation"}
-{"guild_name": "Twisted Destiny", "special_power": "Telekinesis"}
-{"guild_name": "Merciless Janitors", "special_power": "Regenerative Power"}
-{"guild_name": "Dragons Of Justice", "special_power": "X-Ray Vision"}
-{"guild_name": "Shadows of the Arcane Lost", "special_power": "Time Freezing"}
-{"guild_name": "Bloodthirsty Meerkats", "special_power": "Immortality"}
-{"guild_name": "Hells Panty Raiders", "special_power": "Psychometry"}
-{"guild_name": "Children Of Virtue", "special_power": "Self-liquification"}
-{"guild_name": "Alliance of Burning Guards", "special_power": "Superstrength"}
