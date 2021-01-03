@@ -1,0 +1,5 @@
+{"weapon_type": "sword", "damage_level": 70, "range": 2, "gold_cost": 150}
+{"weapon_type": "bow", "damage_level": 30, "range": 5, "gold_cost": 90}
+{"weapon_type": "spear", "damage_level": 50, "range": 3, "gold_cost": 120}
+{"weapon_type": "dagger", "damage_level": 80, "range": 1, "gold_cost": 180}
+{"weapon_type": "spell", "damage_level": 100, "range": 4, "gold_cost": 200}
